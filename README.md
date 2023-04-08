@@ -1,1 +1,1 @@
-# simple_blog_site
+# django_blog_translator_app
