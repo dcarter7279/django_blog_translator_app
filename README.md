@@ -1,4 +1,5 @@
-# django_blog_translator_app
+# django_blog_translator_app![Screenshot 2023-04-07 at 4 29 51 PM](https://user-images.githubusercontent.com/36581111/230696287-79be4818-e213-48c2-901f-58c0d17e71ac.png)
+
 # Blog Post Web Application
 This is a simple web application for a blog post using HTML, Bootstrap, and Django template tags. It provides a basic template structure for a blog post with a navigation bar, content block, and footer.
 
