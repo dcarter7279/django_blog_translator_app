@@ -1,6 +1,7 @@
-# django_blog_translator_app![Screenshot 2023-04-07 at 4 29 51 PM](https://user-images.githubusercontent.com/36581111/230696287-79be4818-e213-48c2-901f-58c0d17e71ac.png)
+# django_blog_translator_app!
 
-# Blog Post Web Application
+# Blog Post Web Application![Screenshot 2023-04-07 at 8 54 19 PM](https://user-images.githubusercontent.com/36581111/230696368-c7ebd6a5-bd02-47a9-877f-ac644a8533be.png)
+
 This is a simple web application for a blog post using HTML, Bootstrap, and Django template tags. It provides a basic template structure for a blog post with a navigation bar, content block, and footer.
 
 # Installation
@@ -22,7 +23,8 @@ This is a simple template for a blog post web application and does not require a
 This code is open source and available under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
 
-# Translator Web Application
+# Translator Web Application![Screenshot 2023-04-07 at 8 54 53 PM](https://user-images.githubusercontent.com/36581111/230696374-b4398193-3d15-4323-8f0e-d44058225a90.png)
+
 This is a simple web application that translates text from English to Afrikaans using the googletrans Python library. It provides a basic template structure for a web application with a navigation bar, content block, and footer.
 
 # Installation
